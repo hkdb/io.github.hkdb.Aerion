@@ -1,3 +1,8 @@
 {
-  "only-arches": ["x86_64", "aarch64"]
+  "only-arches": ["x86_64", "aarch64"],
+  "skip-appstream-check": false,
+  "linter-exceptions": [
+    "appid-uses-code-hosting-domain",
+    "finish-args-login1-system-talk-name"
+  ]
 }
