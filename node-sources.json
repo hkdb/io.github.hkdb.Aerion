@@ -1681,6 +1681,13 @@
     },
     {
         "type": "file",
+        "url": "https://registry.npmjs.org/dictionary-en-gb/-/dictionary-en-gb-3.0.0.tgz",
+        "sha512": "814fddc02f711983e1ff408272618d5cef0ec1280ec9202a7af7125f10030ac8140feb6be8e279daeed7682ecda3b74db2cbdd5127d58e4cdca8bad166ade43c",
+        "dest-filename": "ddc02f711983e1ff408272618d5cef0ec1280ec9202a7af7125f10030ac8140feb6be8e279daeed7682ecda3b74db2cbdd5127d58e4cdca8bad166ade43c",
+        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/81/4f"
+    },
+    {
+        "type": "file",
         "url": "https://registry.npmjs.org/dictionary-fr/-/dictionary-fr-3.0.0.tgz",
         "sha512": "7e10d15f5711c873c0ebd18983c4785e035881242f6cd1e3de4af952abc41b5392e6926a1fa3f719b3bbc294c2c2faf928c434371188b17a6cf4fe4dc9745512",
         "dest-filename": "d15f5711c873c0ebd18983c4785e035881242f6cd1e3de4af952abc41b5392e6926a1fa3f719b3bbc294c2c2faf928c434371188b17a6cf4fe4dc9745512",
@@ -1699,6 +1706,13 @@
         "sha512": "61e983dfde2bd73e41ac2d4752c57b885eb32c86a51416dc0df3029f8395f8a3f77d1a82e5504bba884604698a9c29b0c174899a13a39b369063671b2bad6217",
         "dest-filename": "83dfde2bd73e41ac2d4752c57b885eb32c86a51416dc0df3029f8395f8a3f77d1a82e5504bba884604698a9c29b0c174899a13a39b369063671b2bad6217",
         "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/61/e9"
+    },
+    {
+        "type": "file",
+        "url": "https://registry.npmjs.org/dictionary-nl/-/dictionary-nl-2.0.0.tgz",
+        "sha512": "04946ede34f9da61230ee9dba42f58d54890272db6554b80fcdeacd8e7392ae37e8474b73030a84d08b28e27de3dddab947b594b2d1f199681d2a5e208687b57",
+        "dest-filename": "6ede34f9da61230ee9dba42f58d54890272db6554b80fcdeacd8e7392ae37e8474b73030a84d08b28e27de3dddab947b594b2d1f199681d2a5e208687b57",
+        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/04/94"
     },
     {
         "type": "file",
@@ -4892,6 +4906,12 @@
     },
     {
         "type": "inline",
+        "contents": "a8393dccca85b5db5138188d309f98cafe1599ab\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/dictionary-en-gb/-/dictionary-en-gb-3.0.0.tgz\",\"integrity\": \"sha512-gU/dwC9xGYPh/0CCcmGNXO8OwSgOySAqevcSXxADCsgUD+tr6OJ52u7XaC7No7dNssvdUSfVjkzcqLrRZq3kPA==\",\"time\": 0,\"size\": 0,\"metadata\": {\"url\": \"https://registry.npmjs.org/dictionary-en-gb/-/dictionary-en-gb-3.0.0.tgz\",\"reqHeaders\": {},\"resHeaders\": {}}}",
+        "dest-filename": "0bc787f7f18083a3400b3c987b1be0b531502755a41655f2cf5791c22517",
+        "dest": "flatpak-node/npm-cache/_cacache/index-v5/2e/b1"
+    },
+    {
+        "type": "inline",
         "contents": "0b387a7d6e0376b4dedadd663c21ad30bc845b1a\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/dictionary-fr/-/dictionary-fr-3.0.0.tgz\",\"integrity\": \"sha512-fhDRX1cRyHPA69GJg8R4XgNYgSQvbNHj3kr5UqvEG1OS5pJqH6P3GbO7wpTCwvr5KMQ0NxGIsXps9P5NyXRVEg==\",\"time\": 0,\"size\": 0,\"metadata\": {\"url\": \"https://registry.npmjs.org/dictionary-fr/-/dictionary-fr-3.0.0.tgz\",\"reqHeaders\": {},\"resHeaders\": {}}}",
         "dest-filename": "f253a3a616dfabdac8b863d939d4658effab735c90f27f33a9adb2880391",
         "dest": "flatpak-node/npm-cache/_cacache/index-v5/69/3e"
@@ -4907,6 +4927,12 @@
         "contents": "499f01e3940c7656a6f12a19d0950f5ae72f695f\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/dictionary-nb/-/dictionary-nb-3.0.0.tgz\",\"integrity\": \"sha512-YemD394r1z5BrC1HUsV7iF6zLIalFBbcDfMCn4OV+KP3fRqC5VBLuohGBGmKnCmwwXSJmhOjmzaQY2cbK61iFw==\",\"time\": 0,\"size\": 0,\"metadata\": {\"url\": \"https://registry.npmjs.org/dictionary-nb/-/dictionary-nb-3.0.0.tgz\",\"reqHeaders\": {},\"resHeaders\": {}}}",
         "dest-filename": "60278311acacbd464d6794b588fd715a8208959f3cce48fbf0593caa8a7a",
         "dest": "flatpak-node/npm-cache/_cacache/index-v5/4f/88"
+    },
+    {
+        "type": "inline",
+        "contents": "e5b92b7f37896a491b802d92b56362bec33b697e\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/dictionary-nl/-/dictionary-nl-2.0.0.tgz\",\"integrity\": \"sha512-BJRu3jT52mEjDunbpC9Y1UiQJy22VUuA/N6s2Oc5KuN+hHS3MDCoTQiyjifePd2rlHtZSy0fGZaB0qXiCGh7Vw==\",\"time\": 0,\"size\": 0,\"metadata\": {\"url\": \"https://registry.npmjs.org/dictionary-nl/-/dictionary-nl-2.0.0.tgz\",\"reqHeaders\": {},\"resHeaders\": {}}}",
+        "dest-filename": "e96f8e5a3064db7cef2a08086192f6721ae8cee1c300b752802757cef86a",
+        "dest": "flatpak-node/npm-cache/_cacache/index-v5/ed/48"
     },
     {
         "type": "inline",
